@@ -1,5 +1,5 @@
 # Image Mosaic
-This program creates and Image Mosaic from the users image library when given an image
+This program creates an Image Mosaic from the users image library when given an image
 
 # Author
 Kevin lovell
